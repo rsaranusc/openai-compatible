@@ -844,10 +844,3 @@ For counting tokens, you might find the following links helpful:
 ## Contributing
 
 By following [Contributing Guidelines](https://github.com/rsaranusc/openai-compatible/blob/master/CONTRIBUTING.md), we hope to ensure that your contributions are made smoothly and efficiently.
-
-## Thank you
-
-We want to take a moment to express our deepest gratitude to the [contributors](https://github.com/rsaranusc/openai-compatible/graphs/contributors) and sponsors of this project:
-- [Carson Kahn](https://carsonkahn.com) of [Spindle AI](https://spindleai.com)
-
-To all of you: thank you. You've helped us achieve more than we ever imagined possible. Can't wait to see where we go next, together!
