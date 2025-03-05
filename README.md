@@ -1,4 +1,4 @@
-# Go OpenAI
+# OpenAI Compatible Client
 [![Go Reference](https://pkg.go.dev/badge/github.com/rsaranusc/openai-compatible.svg)](https://pkg.go.dev/github.com/rsaranusc/openai-compatible)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rsaranusc/openai-compatible)](https://goreportcard.com/report/github.com/rsaranusc/openai-compatible)
 [![codecov](https://codecov.io/gh/rsaranusc/openai-compatible/branch/master/graph/badge.svg?token=bCbIfHLIsW)](https://codecov.io/gh/rsaranusc/openai-compatible)
